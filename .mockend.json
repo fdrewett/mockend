@@ -40,8 +40,8 @@
         "belongsTo": "Post"
       }
     },
-    "temperature": {
-        "temperature": { "int": {} },
-        "humidity": { "int": {} }
+    "Temperature": {
+      "temperature": { "int": {} },
+      "humidity": { "int": {} }
     }
   }
