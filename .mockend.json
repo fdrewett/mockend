@@ -39,5 +39,11 @@
       "post": {
         "belongsTo": "Post"
       }
+    },
+    "temperature": {
+      "float": {
+        "min": 30,
+        "max": 80
+      }
     }
   }
