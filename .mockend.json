@@ -42,7 +42,6 @@
     },
     "temperature": {
         "temperature": { "int": {} },
-        "humidity": { "int": {} },
-      
+        "humidity": { "int": {} }
     }
   }
